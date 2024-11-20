@@ -1,7 +1,7 @@
 # Hi there 👋, I'm [Abdul Basit]!
 ### 🌟 Front-End Developer | Passionate About Clean Code
 
-- 🔭 I’m currently working on **[Dev Dazzle Solutions ( Website )]**
+- 🔭 I’m currently working on **Dev Dazzle Solutions**
 - 🌱 I’m learning **ReactJS** and **SASS**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me: [bkbaloch482@gmail.com.com](mailto:bkbaloch482@gmail.com.com)
