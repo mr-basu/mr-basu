@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Abdul Basit]!
+# Hi there 👋, I'm Abdul Basit!
 ### 🌟 Front-End Developer | Passionate About Clean Code
 
 - 🔭 I’m currently working on **Dev Dazzle Solutions**
